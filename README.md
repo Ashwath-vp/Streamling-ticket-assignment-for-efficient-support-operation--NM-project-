@@ -1,6 +1,6 @@
 # Streamling Ticket Assignment for Efficient Support Operation 
 
-Here You will find the document files related to the "Streamlinging-Ticket-Assignment-for-Efficient-Support-Operation"
+Here You will find the document files related to the "Streamlinging Ticket Assignment for Efficient Support Operation"
 
 Team ID : NM2025TMID07505
 
